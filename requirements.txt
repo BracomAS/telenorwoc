@@ -1,0 +1,13 @@
+﻿streamlit
+pandas
+numpy
+openpyxl
+numpy
+requests
+lxml
+python-docx
+Jinja2
+cryptography
+fpdf
+python-dateutil
+
